@@ -1,11 +1,36 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm Ilarion Halushka, Software Engineer  with 6 years of experience focusing mostly on back-end development 
-(JavaScript, TypeScript, Python)
-but also working with front-end (React) and mobile apps (React Native).
+I'm Ilarion Halushka, Software Engineer with 6 years of experience focusing mostly on back-end development 
+(`JavaScript`, `TypeScript`, `Python`)
+but also working with front-end on `React` and mobile apps on `React Native`.
+
+--- 
+
+### Skills
+
+<div>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
+  
+  https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg
+  
+  https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg
+  
+  https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg
+  
+  https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg
+</div>
 
 
-<script>new Date()</script>
 
 ---
 
