@@ -1,10 +1,11 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm Ilarion Halushka, Software Engineer focusing mostly on back-end development 
-(Node.js, Python)
-but also working with front-end (React) and mobile (React Native).
+I'm Ilarion Halushka, Software Engineer  with 6 years of experience focusing mostly on back-end development 
+(JavaScript, TypeScript, Python)
+but also working with front-end (React) and mobile apps (React Native).
 
-Software Engineer with 6 years of experience.
+
+<script>new Date()</script>
 
 ---
 
