@@ -16,18 +16,16 @@ but also working with front-end on `React` and mobile apps on `React Native`.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>
+ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>
   
-  https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>
   
-  https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg
-  
-  https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg
-  
-  https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg
 </div>
 
 
