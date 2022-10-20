@@ -1,8 +1,9 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hello and welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 I'm Ilarion Halushka, Software Engineer with 6 years of experience focusing mostly on back-end development 
-(`JavaScript`, `TypeScript`, `Python`)
-but also working with front-end on `React` and mobile apps on `React Native`.
+using `JavaScript`/`TypeScript` and `Python`.
+
+I also deliver front-end on `React` and mobile apps on `React Native`.
 
 --- 
 
