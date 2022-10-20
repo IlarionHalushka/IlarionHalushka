@@ -5,6 +5,9 @@ using `JavaScript`/`TypeScript` and `Python`.
 
 I also deliver front-end on `React` and mobile apps on `React Native`.
 
+To find out more info about me please check out
+<a target="_blank" href="https://ilarionhalushka.github.io/about">"About me" page on my blog</a>.
+
 --- 
 
 ### Skills
