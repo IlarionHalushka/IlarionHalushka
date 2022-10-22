@@ -1,11 +1,11 @@
-# Hello and welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hello and welcome! 🤗
 
 I'm Ilarion Halushka, Software Engineer with 6 years of experience focusing mostly on back-end development 
 using `JavaScript`/`TypeScript` and `Python`.
 
 I also deliver front-end on `React` and mobile apps on `React Native`.
 
-To find out more info about me please check out
+If you want to get to know me better please check out
 <a target="_blank" href="https://ilarionhalushka.github.io/about">"About me" page on my blog</a>.
 
 --- 
@@ -27,7 +27,7 @@ To find out more info about me please check out
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>
-    
+    .....
 </div>
 
 
@@ -38,8 +38,8 @@ To find out more info about me please check out
 
 <div id="badges">
 
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilarion-halushka-6a31a5173/)
 [![IT Blog By Ilarion Halushka](https://img.shields.io/badge/IT_Blog_By_Ilarion_Halushka-0a062a?style=for-the-badge)](https://ilarionhalushka.github.io/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilarion-halushka-6a31a5173/)
 [![instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/h.i.l.a.r.i.o.n/)
 [![youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ)
 
