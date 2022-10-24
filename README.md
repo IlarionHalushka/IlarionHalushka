@@ -10,7 +10,7 @@ If you want to get to know me better please check out
 
 --- 
 
-### Skills
+### Core Skills
 
 <div>
   
@@ -26,8 +26,8 @@ If you want to get to know me better please check out
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>
  
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>
-    .....
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/> 
+     
 </div>
 
 
