@@ -5,7 +5,6 @@ using `JavaScript`/`TypeScript` (`Node.js`) and `Python`.
 
 I also deliver front-end on `React` and mobile apps on `React Native`.
 
-If you want to get to know me better please check out
 <a target="_blank" href="https://ilarionhalushka.github.io/about">"About me" page on my blog</a>.
 
 --- 
