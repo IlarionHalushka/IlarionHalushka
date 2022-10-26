@@ -1,11 +1,10 @@
 # Hello and welcome! 🤗
 
-I'm Ilarion Halushka, Software Engineer with 6 years of experience focusing mostly on back-end development 
-using `JavaScript`/`TypeScript` (`Node.js`) and `Python`.
+I'm Ilarion Halushka, Software Engineer with 6 years of experience. 
 
-I also deliver front-end on `React` and mobile apps on `React Native`.
+Focusing mostly on back-end development writing in `JavaScript`/`TypeScript` (`Node.js`) and `Python`.
 
-<a target="_blank" href="https://ilarionhalushka.github.io/about">"About me" page on my blog</a>.
+Also deliver front-end on `React` and mobile apps on `React Native`.
 
 --- 
 
@@ -29,6 +28,7 @@ I also deliver front-end on `React` and mobile apps on `React Native`.
      
 </div>
 
+<a target="_blank" href="https://ilarionhalushka.github.io/about">"About me" page on my blog</a>
 
 
 ---
