@@ -1,10 +1,10 @@
 # Hello and welcome! 🤗
 
-I'm Ilarion Halushka, Software Engineer with 6 years of experience. 
+Hi! I’m Ilarion Halushka - Senior Fullstack Software Engineer with 7 years of experience.
 
-Focusing mostly on back-end development writing in `JavaScript`/`TypeScript` (`Node.js`) and `Python`.
+Focusing mostly on back-end development in JavaScript/TypeScript/Node.js (primary) and Python (secondary).
 
-Also deliver front-end on `React` and mobile apps on `React Native`.
+Also deliver front-end on React and mobile apps on React Native.
 
 --- 
 
