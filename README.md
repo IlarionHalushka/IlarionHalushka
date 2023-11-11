@@ -73,6 +73,6 @@ Also deliver front-end on React and mobile apps on React Native.
 
 ![IlarionHalushka github stats](https://github-readme-stats.vercel.app/api?hide=stars,contribs&include_all_commits=true&username=IlarionHalushka&show_icons=true&theme=tokyonight&count_private=true&bg_color=#070719,#0c69d7)
 
-[![IlarionHalushka Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlarionHalushka&theme=tokyonight&hide=CSS,HTML,SHELL,SCSS,JAVA&langs_count=3)
+![IlarionHalushka Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlarionHalushka&theme=tokyonight&hide=CSS,HTML,SHELL,SCSS,JAVA&langs_count=3)
 
 [//]: # ([![Ilarion Halushka profile views]&#40;https://u8views.com/api/v1/github/profiles/25078524/views/day-week-month-total-count.svg&#41;]&#40;https://u8views.com/github/IlarionHalushka&#41;)
